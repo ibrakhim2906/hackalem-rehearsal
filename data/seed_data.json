@@ -1,0 +1,8 @@
+{
+  "student_profile": {
+    "name": "Айша",
+    "grade": 8,
+    "preferred_languages": ["kk", "ru", "en"]
+  },
+  "suggested_topics": ["фотосинтез", "квадратные уравнения", "Солнечная система"]
+}
